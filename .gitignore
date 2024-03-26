@@ -1,0 +1,37 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Backend - Server
+/server/node_modules/
+/server/.env
+
+# Frontend - Client
+/client/node_modules/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Output files
+dist/
+build/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
